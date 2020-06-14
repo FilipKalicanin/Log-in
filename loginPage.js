@@ -1,3 +1,3 @@
 function myFunction() {
-    alert ("Welcome");
+   document.getElementById("button").innerHTML = "Thank you!";
 }
